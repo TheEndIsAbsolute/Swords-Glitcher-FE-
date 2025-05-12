@@ -1907,8 +1907,8 @@ if Char:FindFirstChild("Divine Aura") then
             v.Transparency = 1
         end
     end
-    local athp = Instance.new("Attachment", RWP4.PrimaryPart)
-    local atho = Instance.new("Attachment", RWP4.PrimaryPart)
+    local athp = Instance.new("Attachment", RWP5.PrimaryPart)
+    local atho = Instance.new("Attachment", RWP5.PrimaryPart)
 
     local HatChoice = Char:FindFirstChild("Divine Aura")
     HatChoice.Handle:FindFirstChildOfClass("AlignPosition").Attachment1 = athp
