@@ -6,26 +6,47 @@
 --Mode--
 
 1 = POWER
+
 1+U = FORCE
+
 1+Y = EXCALIBUR
+
 1+Y+Y = GREATSWORD
+
 1+Y+T = EXCALIBUR X
+
 1+Y+T+T = EXCALIBUR  --back to EXCALIBUR
+
 1+T = YING-YANG
+
 2 = Splits
+
 2+R = ยɭՇгครкเ๔๔є๔
+
 2+T = Relax
+
 3 = Overclocked
+
 3+T = TIME WARP
+
 4 = S P A C E T I M E
+
 4+P = PULSAR
+
 4+G = WORMHOLE
+
 4+R = OMEGA
+
 4+T = Euclidiean
+
 4+E = DIMENSIONAL
+
 4+Y = SINGULARITY
+
 4+Y+T = THE VOID
+
 5 = ERROR_404
+
 5+R = SYSTEM_32
 5+Y = ARCADE
 5+Z = CMD:_____
