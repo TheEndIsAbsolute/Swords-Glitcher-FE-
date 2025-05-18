@@ -100,11 +100,6 @@ local credits = false -- toggles if ya say the credits (PEOPLE WHO MADE THIS GLI
 
 -- Options end here!
 
--- Netless ReAnimation
--- Created by MiAiHsIs1226
-loadstring(game:HttpGet("https://pastebin.com/raw/Kc5Wpt9s", true))()
-
-
 workspace.DescendantAdded:Connect(function(seat)
     if seat:IsA("Seat") then
         wait()
